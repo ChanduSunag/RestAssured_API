@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1423" started-at="2022-08-11T11:31:25 IST" finished-at="2022-08-11T11:31:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1423" started-at="2022-08-11T11:31:25 IST" finished-at="2022-08-11T11:31:26 IST">
+      <class name="DataDrivenTesting.CreateMultipleProjects">
+        <test-method status="PASS" signature="createMultipleProject(java.lang.String,java.lang.String,java.lang.String,int)[pri:0, instance:DataDrivenTesting.CreateMultipleProjects@631330c]" name="createMultipleProject" duration-ms="1338" started-at="2022-08-11T11:31:25 IST" data-provider="getData" finished-at="2022-08-11T11:31:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chandan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apple]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Completed]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMultipleProject -->
+        <test-method status="PASS" signature="createMultipleProject(java.lang.String,java.lang.String,java.lang.String,int)[pri:0, instance:DataDrivenTesting.CreateMultipleProjects@631330c]" name="createMultipleProject" duration-ms="27" started-at="2022-08-11T11:31:26 IST" data-provider="getData" finished-at="2022-08-11T11:31:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sunag]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lenovo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Created]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMultipleProject -->
+        <test-method status="PASS" signature="createMultipleProject(java.lang.String,java.lang.String,java.lang.String,int)[pri:0, instance:DataDrivenTesting.CreateMultipleProjects@631330c]" name="createMultipleProject" duration-ms="25" started-at="2022-08-11T11:31:26 IST" data-provider="getData" finished-at="2022-08-11T11:31:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chandu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TYSS]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[On Going]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createMultipleProject -->
+      </class> <!-- DataDrivenTesting.CreateMultipleProjects -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
